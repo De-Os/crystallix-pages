@@ -1,0 +1,8 @@
+name: crystallix-pages
+version: 0.1.0
+
+authors:
+  - Alexander Vinogradov ~> vk.com/vinogradov.sasha || t.me/sasha_vinogradov
+
+description: |
+  Little lib to use Crystal files in Crystallix CGI
